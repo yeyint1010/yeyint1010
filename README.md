@@ -20,3 +20,4 @@
 
 ## 🔗 Contact
 * [LinkedIn](https://linkedin.com/in/ye-yint-lwin-4174ab325)
+* [Figma Profile](https://www.figma.com/@yeyintlwin1)
