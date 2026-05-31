@@ -21,3 +21,4 @@
 ## 🔗 Contact
 * [LinkedIn](https://linkedin.com/in/ye-yint-lwin-4174ab325)
 * [Figma Profile](https://www.figma.com/@yeyintlwin1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lablearning7?is_from_webapp=1&sender_device=pc)
