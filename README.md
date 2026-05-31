@@ -1,7 +1,7 @@
 # Hi, I'm Ye Yint! 👋
 
 ## 🚀 About Me
-* 🛡️ Focus: SOC Analyst | Junior Security Engineer | Freelance Web Developer
+* 🛡️ Focus: SOC Analyst | Junior Security Engineer | Freelance Web Developer and UI/UX Designer
 * 💻 Experience: Teaching Hardware, Network Cabling, and Windows Server Configuration.
 * 📚 Studying: Cybersecurity and Management System
 
